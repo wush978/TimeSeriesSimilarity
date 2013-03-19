@@ -1,0 +1,11 @@
+Package: TimeSeriesSimilarity
+Type: Package
+Title: Implement some methods to evaluate similarity between time series
+Version: 0.1
+Date: 2013-03-19
+Author: Wush Wu <wush978@gmail.com>
+Maintainer: Wush Wu <wush978@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: GPL
+Depends: Rcpp (>= 0.10.2)
+LinkingTo: Rcpp
